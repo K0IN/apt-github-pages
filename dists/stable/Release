@@ -2,13 +2,19 @@ Origin: GitHub Pages
 Label: GitHub Pages APT Repo
 Suite: stable
 Codename: stable
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: A simple APT repo hosted on GitHub Pages
-Date: Fri, 16 Jan 2026 19:27:28 +0000
+Date: Fri, 16 Jan 2026 19:34:07 +0000
 MD5Sum:
- 412ea09895155d9e05bd367b1d808932 476 main/binary-amd64/Packages
- 26442cb15ddfdf0691794af1571c00fd 369 main/binary-amd64/Packages.gz
+ 6b014b0b03bea1dfd55acf5f3b286e63 476 main/binary-amd64/Packages
+ c0bae661dc793130d7d7e624942311e2 370 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 69651e41c5a46d78c350ac2b0391d83e 29 main/binary-arm64/Packages.gz
+
 SHA256:
- 49c61d4008a1caefbb57e9fb65f007e928ab2cd2c27f0d401376c25a6546f828 476 main/binary-amd64/Packages
- a8ef6c3aa23c7aada18d4e6d7edd49c5bd3f57bc850809944a1d390171a63e91 369 main/binary-amd64/Packages.gz
+ 621d63dceaf568fe9cf9bb9654ca97de13ea4ca3b04213f754c582399c5aebe3 476 main/binary-amd64/Packages
+ 1f3ca5f104eba6f3591ecbf3884c68057999a311b5a79b124ebb805fa93fca87 370 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 602f0dfe671e82e70c345b0a5c7c7a376efbcc4ad43053c1717dcc474da553e7 29 main/binary-arm64/Packages.gz
+
