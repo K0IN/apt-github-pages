@@ -8,23 +8,23 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: A simple APT repo hosted on GitHub Pages
-Date: Fri, 16 Jan 2026 19:34:07 +0000
+Date: Fri, 16 Jan 2026 19:37:39 +0000
 MD5Sum:
- 6b014b0b03bea1dfd55acf5f3b286e63 476 main/binary-amd64/Packages
- c0bae661dc793130d7d7e624942311e2 370 main/binary-amd64/Packages.gz
+ e3bed4eb658b1835ba2029b40ac29069 476 main/binary-amd64/Packages
+ 2764f69881fe497f0ebd1ce724a23d31 369 main/binary-amd64/Packages.gz
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
- 69651e41c5a46d78c350ac2b0391d83e 29 main/binary-arm64/Packages.gz
+ f12e5c67a639477e6b5b73058083ee78 29 main/binary-arm64/Packages.gz
 
 SHA256:
- 621d63dceaf568fe9cf9bb9654ca97de13ea4ca3b04213f754c582399c5aebe3 476 main/binary-amd64/Packages
- 1f3ca5f104eba6f3591ecbf3884c68057999a311b5a79b124ebb805fa93fca87 370 main/binary-amd64/Packages.gz
+ ed99407a13b5af6784686ebf6e18bf956cfae6d44cefb0a3eafe0fce89f9751b 476 main/binary-amd64/Packages
+ 519fe29b56e0e27fe612a36ef8ba74a038edecedd378a91b36e6d59016c86596 369 main/binary-amd64/Packages.gz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
- 602f0dfe671e82e70c345b0a5c7c7a376efbcc4ad43053c1717dcc474da553e7 29 main/binary-arm64/Packages.gz
+ b1ff188004436622c4f3fdaf7cf6a0206effaef1c69fa410e95a5b3bd1f6943f 29 main/binary-arm64/Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqSrwAKCRBuFQBvBQKH
-YRH+AP4g16ZQGrTUNjGpnQO57aHQ9Um9GHg5K8D9N9JHYoAjVwEA2o3Pi9ylbk7d
-ib7XOUQBF30gGRab+QRE8YDpo4GfeQk=
-=hQob
+iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqTgwAKCRBuFQBvBQKH
+YYyFAP9fbFn+WU7cnnVcNbtSjIJXvA5+XBV+O3vx1xNyajpBFwD+Ok2Y01sPcubx
+iZo5b5h/nDFqwPnsFa1lXW+U9UgOBAE=
+=KIub
 -----END PGP SIGNATURE-----
