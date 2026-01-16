@@ -5,10 +5,10 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: A simple APT repo hosted on GitHub Pages
-Date: Fri, 16 Jan 2026 18:55:30 +0000
+Date: Fri, 16 Jan 2026 19:04:12 +0000
 MD5Sum:
- 1a401dbc1b1260a545ff518bd05a6149 466 main/binary-amd64/Packages
- 15f2bbbfad7a00b41bbaefa6007e5445 364 main/binary-amd64/Packages.gz
+ d9cf46ae33e013236660f72ec242b2de 476 main/binary-amd64/Packages
+ 647ef4e77fd13d85f69d9488f0a39505 369 main/binary-amd64/Packages.gz
 SHA256:
- ef501a4434caaf479b957ace8d38aeef07cfb38415e323eda11352fa082a6b06 466 main/binary-amd64/Packages
- 47763634dee24080503e26c16be289a86dc4fcdd9f54ef2d730766bd6cf9e444 364 main/binary-amd64/Packages.gz
+ 990babbe9f854480b2b312ad643434d7f5435d5f6b9d8f9bbe7190f7647f3378 476 main/binary-amd64/Packages
+ 0937248be2c22487ac5b0300359d9dd77bd86ec63b480b942c653b792518c64d 369 main/binary-amd64/Packages.gz
