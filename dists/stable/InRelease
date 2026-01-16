@@ -8,17 +8,17 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: A simple APT repo hosted on GitHub Pages
-Date: Fri, 16 Jan 2026 19:05:58 +0000
+Date: Fri, 16 Jan 2026 19:16:13 +0000
 MD5Sum:
- 6ee42e55c8b1c806cc3a31b648c97eea 476 main/binary-amd64/Packages
- a333346c8b97a1d2f3c519e7eab090e2 368 main/binary-amd64/Packages.gz
+ bf12acb89fe30961bb9294a49a747d81 476 main/binary-amd64/Packages
+ 0e1c82debb28a84182fc9e5ff093dac9 367 main/binary-amd64/Packages.gz
 SHA256:
- 9adc664b002c9d59ad9a2fda7768b0720d127b231492ce56a85891d6e0175c99 476 main/binary-amd64/Packages
- c372078b865ed875546e9c5f56c55d2efd336a043ad960975f7b65aa198bf76e 368 main/binary-amd64/Packages.gz
+ d988179d02a2306d8e2985cb43e200facf4941430933f82c7b9227b77e4bd207 476 main/binary-amd64/Packages
+ 8bd46bfa694b6fb8dc4b05887a4ac7891fb1d5caf4b671a393427f14a7b31cec 367 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqMFgAKCRBuFQBvBQKH
-YcCDAQC8g0GxU5ZJtFb9knYy8tv4ZrwIIrCAvljpjxKJGprstQD8C3ya0bU38fCU
-FwzcGWqnVektECyuPNJpZLIU1TS5pQc=
-=2BE7
+iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqOfQAKCRBuFQBvBQKH
+YTv5AQDXvRnjrtyh223gTAd1bsf1pkbyfNbEu+olwS27WWZz+AEAmi446qFxMVkR
+JCqsatRIPv75a5N7yggTn0+lfe7sAg8=
+=rCs0
 -----END PGP SIGNATURE-----
