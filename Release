@@ -1,7 +1,0 @@
-Origin: GitHub Pages
-Label: GitHub Pages APT Repo
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Description: A simple APT repo hosted on GitHub Pages

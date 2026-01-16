@@ -1,0 +1,15 @@
+Package: hello
+Version: 0.1.0
+Architecture: amd64
+Maintainer: k0in <thisk0in@gmail.com>
+Depends: libc6 (>= 2.29)
+Filename: pool/main/hello/hello_0.1.0_amd64.deb
+Size: 1030128
+MD5sum: 3c8634f782088c4c06b344809346d53a
+SHA1: 86a73bf0d0601d393709874a5a05840301ce28ef
+SHA256: 2efe1811f1d8575e6e7dd23535641e43b35dd74c1cda1a4c0ddd70800c1c2fe2
+Section: base
+Priority: optional
+Description: Simple hello world Go app packaged as a .deb
+ A minimal package for demonstration.
+

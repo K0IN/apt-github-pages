@@ -1,0 +1,14 @@
+Origin: GitHub Pages
+Label: GitHub Pages APT Repo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: A simple APT repo hosted on GitHub Pages
+Date: Fri, 16 Jan 2026 18:42:02 +0000
+MD5Sum:
+ fee2ad634e6fb5a93b266149dcf40149 466 main/binary-amd64/Packages
+ b20481b126e03c2604fa75881ee25f88 362 main/binary-amd64/Packages.gz
+SHA256:
+ d9594553f3f348afaa15ff89276ab3fd7b0c7a345f71fc36d4e8e39c61bb181f 466 main/binary-amd64/Packages
+ 36a3de552fc834e5d2a0196f90a546c4d26084763ba2e41d437a3103e6eac08f 362 main/binary-amd64/Packages.gz
