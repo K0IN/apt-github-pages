@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: GitHub Pages
+Label: GitHub Pages APT Repo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: A simple APT repo hosted on GitHub Pages
+Date: Fri, 16 Jan 2026 18:55:30 +0000
+MD5Sum:
+ 1a401dbc1b1260a545ff518bd05a6149 466 main/binary-amd64/Packages
+ 15f2bbbfad7a00b41bbaefa6007e5445 364 main/binary-amd64/Packages.gz
+SHA256:
+ ef501a4434caaf479b957ace8d38aeef07cfb38415e323eda11352fa082a6b06 466 main/binary-amd64/Packages
+ 47763634dee24080503e26c16be289a86dc4fcdd9f54ef2d730766bd6cf9e444 364 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEREzDa5ZweHyF8jkcJQ4m9DTVGDQFAmlqiaMACgkQJQ4m9DTV
+GDRO1RAAv0kHg1nP4+CccbVI9q88Ja83zXf08/kUq345h5clKUwoHEdebPVPr8Nx
+1wUle2deY3pqKuDIQvSkGRQMcaIRd6K9d9yaz2q6VQV7Af7eeO+IIIzuxMTwYtN3
+tCGIZTT9oN+MA1WYvJEr62qZ/9PdmuWxN3jSTo56HdhQgpw9xF8sDGtPtBVXT5mO
+TaOX6XJDW7gFd0JOZ2IX1S22n863Jnkk0MucQKODWBuBSIp0wziayRAylITGE3EL
+AjOzPdUnbq8fI4ZfUKBUjZSO7h99p9PBpUcvxKKV/9XEr1+4erfW9JHD2WoWoh0C
+/pbFBm8A5JTMTTqctVyzz/Y1j4jGGWF3FkLPwCo0A9rFZ85Y+uAFkBJnS5wcJqZq
+5iLCIPaoDIGmVMwHyirbkh0Gj9RtR+4ZjuyfiTiZTbmue/CQFtfIlZtgnafE6Qcj
+1fpzjt+24Abd7tPpshmc4r3v9ixixz+TCVecLHg42bMtCJ0DlAnD9pEetpzqYewM
+wML5HvzVhFVisSWKAPHEckhDGNQLuX2MGJzVoVex8WGtTXzIxXlZHe0eT8uiY2aO
+/8UKDGJ41omLsPO9OAlGL0WZ+4be/vUUAU3czY4PxaR1KaMiV92lMbaaYitOjXwT
+0peI21CJtuUqZ/f8TMmQO2zSzm76Rd+OlNNtzZarddIaPzJLUns=
+=vWQy
+-----END PGP SIGNATURE-----
