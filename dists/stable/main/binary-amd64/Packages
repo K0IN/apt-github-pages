@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: k0in <thisk0in@gmail.com>
 Depends: libc6 (>= 2.29)
 Filename: pool/main/hello/hello-k0in_0.3.0_amd64.deb
-Size: 1257666
-MD5sum: 5aefe8ee70993119ace3b285aaaafe2c
-SHA1: 08137506b962915a38335c0f5788caec1c0c3f2b
-SHA256: 2c055771ed1e8489138aee3844acc1f3329c2c867d0cfc935236ff9a92b3aad4
+Size: 1257710
+MD5sum: 34c90637511bae0a33196c05f1829dec
+SHA1: d0b8e74400b0c4d112f387af0299fdb49702e172
+SHA256: 036d7b717517b459bc5751b5b5abb7b2a6bbcdaf4c957c65c2f283e34256f75b
 Section: base
 Priority: optional
 Description: Simple hello world Go app packaged as a .deb

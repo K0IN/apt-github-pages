@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: GitHub Pages
 Label: GitHub Pages APT Repo
 Suite: stable
@@ -16,3 +19,10 @@ SHA256:
  b76a3f9e59b80fa13b9838a48f136e17259d6216613bac26cb0a9e8ade99b60b 368 main/binary-amd64/Packages.gz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  79e8b4f0cfcb901d65126dc74b4c11d49b13384273a9c47d7738007359fba46a 29 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqVZAAKCRBuFQBvBQKH
+YXeyAP907AUz79aOErAi9oMY26+A3YsmuqesrC+LGdVkTex4TwEAiDSkFm+vXg67
+UZrjzwS+Nt9VOz63YAlujgK9CW/rcQw=
+=tpiY
+-----END PGP SIGNATURE-----
