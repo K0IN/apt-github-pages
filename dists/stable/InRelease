@@ -8,17 +8,17 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: A simple APT repo hosted on GitHub Pages
-Date: Fri, 16 Jan 2026 19:22:11 +0000
+Date: Fri, 16 Jan 2026 19:27:28 +0000
 MD5Sum:
- 31d3eea8075669676440fd86ad347e4e 476 main/binary-amd64/Packages
- 08a46829e1743912f7c52cee36300e9d 368 main/binary-amd64/Packages.gz
+ 412ea09895155d9e05bd367b1d808932 476 main/binary-amd64/Packages
+ 26442cb15ddfdf0691794af1571c00fd 369 main/binary-amd64/Packages.gz
 SHA256:
- 7690c76b17556594c2b33afcd7925480b45b22e57a3d802ef81c944b21bb14bd 476 main/binary-amd64/Packages
- d879c72ccca966c390504120f3b5b8c08f2aefea3a0edabe842ef1cb1ccb00ea 368 main/binary-amd64/Packages.gz
+ 49c61d4008a1caefbb57e9fb65f007e928ab2cd2c27f0d401376c25a6546f828 476 main/binary-amd64/Packages
+ a8ef6c3aa23c7aada18d4e6d7edd49c5bd3f57bc850809944a1d390171a63e91 369 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqP4wAKCRBuFQBvBQKH
-YbSYAQCk1emOSH1yPGeybo4tS/ySaPkEcf/hIVRPB5NihZTNVAD/TVaDc+gacUdG
-Zsz9g157yppA3REmMoak6AHHJChWqAg=
-=g8E+
+iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqRIAAKCRBuFQBvBQKH
+YTsWAP91xOOodugrgUJaxrL/WkvnwnzxpbJ7UNoNju5edblvRwD/QcDTUog6X80f
+48fO9pfQFKfVFlB/94kQbM6CXZgYgg4=
+=LYd3
 -----END PGP SIGNATURE-----
