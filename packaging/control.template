@@ -1,0 +1,9 @@
+Package: {{PKGNAME}}
+Version: {{VERSION}}
+Section: base
+Priority: optional
+Architecture: {{ARCH}}
+Depends: libc6 (>= 2.29)
+Maintainer: k0in <thisk0in@gmail.com>
+Description: Simple hello world Go app packaged as a .deb
+ A minimal package for demonstration.
