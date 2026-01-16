@@ -8,17 +8,17 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: A simple APT repo hosted on GitHub Pages
-Date: Fri, 16 Jan 2026 19:16:13 +0000
+Date: Fri, 16 Jan 2026 19:22:11 +0000
 MD5Sum:
- bf12acb89fe30961bb9294a49a747d81 476 main/binary-amd64/Packages
- 0e1c82debb28a84182fc9e5ff093dac9 367 main/binary-amd64/Packages.gz
+ 31d3eea8075669676440fd86ad347e4e 476 main/binary-amd64/Packages
+ 08a46829e1743912f7c52cee36300e9d 368 main/binary-amd64/Packages.gz
 SHA256:
- d988179d02a2306d8e2985cb43e200facf4941430933f82c7b9227b77e4bd207 476 main/binary-amd64/Packages
- 8bd46bfa694b6fb8dc4b05887a4ac7891fb1d5caf4b671a393427f14a7b31cec 367 main/binary-amd64/Packages.gz
+ 7690c76b17556594c2b33afcd7925480b45b22e57a3d802ef81c944b21bb14bd 476 main/binary-amd64/Packages
+ d879c72ccca966c390504120f3b5b8c08f2aefea3a0edabe842ef1cb1ccb00ea 368 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqOfQAKCRBuFQBvBQKH
-YTv5AQDXvRnjrtyh223gTAd1bsf1pkbyfNbEu+olwS27WWZz+AEAmi446qFxMVkR
-JCqsatRIPv75a5N7yggTn0+lfe7sAg8=
-=rCs0
+iHUEARYKAB0WIQQz228kr3pYCIoIxaluFQBvBQKHYQUCaWqP4wAKCRBuFQBvBQKH
+YbSYAQCk1emOSH1yPGeybo4tS/ySaPkEcf/hIVRPB5NihZTNVAD/TVaDc+gacUdG
+Zsz9g157yppA3REmMoak6AHHJChWqAg=
+=g8E+
 -----END PGP SIGNATURE-----
